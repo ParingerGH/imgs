@@ -1,0 +1,33 @@
+{
+    "workbench.startupEditor": "none",
+    "editor.stickyScroll.enabled": true,
+
+    "background.enabled": true,
+    "background.useDefault": false,
+    "background.customImages": 
+    [
+        "https://user-images.githubusercontent.com/61421117/207444705-8de1735e-7934-486e-85da-7cb1e693d036.png",
+        "https://user-images.githubusercontent.com/61421117/207435631-91952f0b-d6e8-43a3-a9d9-74aaaccc6435.png",
+        "https://user-images.githubusercontent.com/61421117/207439760-3362fd50-5fef-4aec-91c7-b074fcdb3b68.png",
+        
+    ],
+
+    "background.styles":[
+        {
+            "opacity": ".1",
+            "z-index": "99999",
+            "background-size": "300px 300px",
+        },
+        {
+            "opacity": ".1",
+            "z-index": "99999",
+            "background-size": "198px 325px",
+        },
+        {
+            "opacity": ".1",
+            "z-index": "99999",
+            "background-size": "250px 335px",
+        },
+        
+    ],
+}
